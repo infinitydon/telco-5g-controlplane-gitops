@@ -17,6 +17,6 @@ upstreamLock:
     repo: https://github.com/infinitydon/nephio-proxmox-packages.git
     directory: workload-crds
     ref: main
-    commit: 15f7a3c93c2eeaea89e87e7d1fed08b1700dfdae
+    commit: 616a10485a0685858c2f83f0d0bfa095a970c8d1
 info:
   description: Package for Workload CRDs.
